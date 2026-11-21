@@ -3,6 +3,7 @@
 A small bug-tracking app to log bugs, change their status, and filter the list. Built with **React 18, TypeScript and Vite**, with automated component tests written in **Vitest and React Testing Library**.
 
 I built this to practise frontend development together with my QA background: the app is small, but it is typed, accessible and tested.
+I add the screenshot of the user interface of this projects that shows adding a new bug accourding to severiaty, show all the existing bugs and can also caragorise bugs according to there status like open, in progress or solved.
 
 ## Features
 
